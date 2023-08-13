@@ -1,0 +1,14 @@
+{
+  "encryptable-field.name": "Encryptable field",
+  "encryptable-field.label": "Encryptable",
+  "encryptable-field.settings": "Settings",
+  "encryptable-field.options.advanced.regex": "RegExp pattern",
+  "encryptable-field.options.advanced.regex.description": "Provide a regular expression to validate the value",
+  "encryptable-field.options.advanced.regex.hint": "Input hint",
+  "encryptable-field.options.advanced.regex.hint.description": "Input example",
+  "encryptable-field.options.advanced.requiredField": "Required field",
+  "encryptable-field.options.advanced.requiredField.description": "You won't be able to create an entry if this field is empty",
+  "encryptable-field.options.role_selector.label": "Select one or more roles",
+  "encryptable-field.options.role_selector.description": "Only for these roles the values will be decrypted",
+  "encryptable-field.aria-label": "Encryptable field input"
+}
